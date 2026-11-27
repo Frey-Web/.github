@@ -25,12 +25,6 @@
       <img src="https://img.shields.io/badge/Kontakt-tim%40frey--web.com-181824?style=for-the-badge&logo=gmail&logoColor=white" alt="Kontakt" />
     </a>
   </p>
-
-  <br />
-
-  <a href="https://frey-web.com">
-    <img src="https://frey-web.com/og-image.png?v=2" alt="Frey Web — Webdesign-Studio Ottobrunn" width="820" />
-  </a>
 </div>
 
 <br />
